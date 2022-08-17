@@ -4,11 +4,12 @@
 }
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color:  rgb(48, 197, 238);
+    
 }
 
 main {
-    background-color: aliceblue;
+    background-color: rgb(84, 162, 231);
     width: 500px;
     margin: auto;
     padding: 10px;
